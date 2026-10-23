@@ -7,10 +7,12 @@ leetcode problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahukrapansh/leetcodebykrapansh/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/sahukrapansh/leetcodebykrapansh/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahukrapansh/leetcodebykrapansh/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/sahukrapansh/leetcodebykrapansh/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -23,4 +25,8 @@ leetcode problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahukrapansh/leetcodebykrapansh/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sahukrapansh/leetcodebykrapansh/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
